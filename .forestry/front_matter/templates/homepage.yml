@@ -1,0 +1,111 @@
+---
+label: homepage
+hide_body: true
+fields:
+- type: text
+  name: baseurl
+  label: baseurl
+- type: text
+  name: languageCode
+  label: languageCode
+- type: text
+  name: title
+  label: title
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: googleAnalytics
+  label: googleAnalytics
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: email
+    label: email
+  - type: boolean
+    name: backgroundpersection
+    label: backgroundpersection
+  - type: field_group
+    name: hero
+    label: hero
+    fields:
+    - type: text
+      name: type
+      label: type
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: description
+      label: description
+    - type: text
+      name: buttontext
+      label: buttontext
+  - type: field_group_list
+    name: block
+    label: block
+    fields:
+    - type: text
+      name: id
+      label: id
+    - type: text
+      name: type
+      label: type
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: description
+      label: description
+    - type: text
+      name: buttontext
+      label: buttontext
+    - type: file
+      name: picture
+      label: picture
+  - type: field_group
+    name: footer
+    label: footer
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: field_group
+      name: social_list
+      label: social_list
+      fields:
+      - type: boolean
+        name: enable
+        label: enable
+    - type: field_group_list
+      name: social
+      label: social
+      fields:
+      - type: text
+        name: title
+        label: title
+      - type: text
+        name: icon
+        label: icon
+      - type: text
+        name: link
+        label: link
+    - type: field_group
+      name: copyright
+      label: copyright
+      fields:
+      - type: field_group_list
+        name: notice
+        label: notice
+        fields:
+        - type: text
+          name: text
+          label: text
