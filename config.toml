@@ -2,7 +2,7 @@
 baseurl = "https://www.example.com"
 languageCode = "en-us"
 title = "Highlights"
-theme = "hugo-highlights-theme"
+theme = "hugo-highlights"
 
 # Enter your tracking code to enable Google analytics
 googleAnalytics = ""
