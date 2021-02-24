@@ -5,21 +5,25 @@ fields:
 - type: text
   name: baseurl
   label: baseurl
+  hidden: true
 - type: text
   name: languageCode
   label: languageCode
+  hidden: true
 - type: text
   name: title
   label: title
 - type: text
   name: theme
   label: theme
+  hidden: true
 - type: text
   name: googleAnalytics
   label: googleAnalytics
+  hidden: true
 - type: field_group
   name: params
-  label: params
+  label: Homepage content
   fields:
   - type: text
     name: name
@@ -33,6 +37,7 @@ fields:
   - type: boolean
     name: backgroundpersection
     label: backgroundpersection
+    hidden: true
   - type: field_group
     name: hero
     label: hero
