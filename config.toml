@@ -10,18 +10,11 @@ email = "your@mail.com"
 name = "Your Name"
 [params.footer]
 enable = true
-[[params.footer.copyright.notice]]
-text = "© Untitled"
-[[params.footer.copyright.notice]]
-text = "Design: [HTML5UP](//html5up.net)"
-[[params.footer.copyright.notice]]
-text = "Demo Images: [Unsplash](//unsplash.com/)"
+social = []
+[params.footer.copyright]
+notice = []
 [params.footer.social_list]
 enable = true
-[[params.footer.social]]
-icon = "fa-envelope"
-link = "#"
-title = "Email"
 [params.hero]
 buttontext = "Position paper"
 description = ""
@@ -50,7 +43,7 @@ title = "List of signatories"
 type = "text"
 [[params.block]]
 buttontext = ""
-description = "xxx@xxx.lu"
+description = ""
 id = "contact"
 picture = "pic05.jpg"
 title = "Get in Touch"
