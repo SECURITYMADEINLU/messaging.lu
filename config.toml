@@ -19,22 +19,6 @@ text = "Demo Images: [Unsplash](//unsplash.com/)"
 [params.footer.social_list]
 enable = true
 [[params.footer.social]]
-icon = "fa-twitter"
-link = "#"
-title = "Twitter"
-[[params.footer.social]]
-icon = "fa-facebook"
-link = "#"
-title = "Facebook"
-[[params.footer.social]]
-icon = "fa-instagram"
-link = "#"
-title = "Instagramm"
-[[params.footer.social]]
-icon = "fa-dribbble"
-link = "#"
-title = "Dribbble"
-[[params.footer.social]]
 icon = "fa-envelope"
 link = "#"
 title = "Email"
