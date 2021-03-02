@@ -37,7 +37,7 @@ type = "text"
 [[params.block]]
 buttontext = ""
 description = "- LU-CIX Management\n- Fondation Restena\n- SECURITYMADEIN.LU\n- [YOU]"
-id = "Signatories"
+id = "supporters"
 picture = "pic03.jpg"
 title = "Signatories"
 type = "text"
