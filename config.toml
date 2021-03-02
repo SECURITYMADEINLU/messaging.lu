@@ -42,11 +42,11 @@ picture = "pic03.jpg"
 title = "Signatories"
 type = "text"
 [[params.block]]
-buttontext = ""
+buttontext = "support"
 description = ""
 id = "contact"
 picture = "pic05.jpg"
-title = "Get in Touch"
+title = "Join the movement"
 type = "contact"
 [params.block.form]
 buttontext = "send message"
