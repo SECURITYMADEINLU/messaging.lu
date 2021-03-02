@@ -36,7 +36,7 @@ title = "Luxembourg and the next steps..."
 type = "text"
 [[params.block]]
 buttontext = "support"
-description = "SECURITYMADEIN.LU\n\nLU-CIX Management\n\nFondation Restena\n\n_\\[YOU\\]_"
+description = "SECURITYMADEIN.LU  \nLU-CIX Management  \nFondation Restena  \n_\\[YOU\\]_"
 id = "supporters"
 picture = "pic03.jpg"
 title = "Signatories"
