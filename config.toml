@@ -11,8 +11,8 @@ name = "Your Name"
 [params.footer]
 enable = true
 social = []
-[params.footer.copyright]
-notice = []
+[[params.footer.copyright.notice]]
+text = "contact@trustworthy.messaging.lu"
 [params.footer.social_list]
 enable = true
 [params.hero]
