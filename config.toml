@@ -17,7 +17,7 @@ text = "contact@trustworthy.messaging.lu"
 enable = true
 [params.hero]
 buttontext = "Position paper"
-description = ""
+description = "Position paper"
 title = "Call for a national trustworthy instant messaging solution"
 type = "hero"
 [[params.block]]
