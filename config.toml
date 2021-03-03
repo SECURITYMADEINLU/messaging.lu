@@ -12,13 +12,13 @@ name = "Position Paper"
 enable = true
 social = []
 [[params.footer.copyright.notice]]
-text = "SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg"
+text = "Contact: SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg // info@securitymadein.lu"
 [params.footer.social_list]
 enable = true
 [params.hero]
-buttontext = "Read More"
-description = "Call to action"
-title = "Position paper on trustworthy instant messaging"
+buttontext = "Read More & Support The Call"
+description = ""
+title = "Call for trustworthy instant messaging"
 type = "hero"
 [[params.block]]
 buttontext = "next"
