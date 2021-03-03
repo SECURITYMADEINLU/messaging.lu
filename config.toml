@@ -12,45 +12,45 @@ name = "Position Paper"
 enable = true
 social = []
 [[params.footer.copyright.notice]]
-text = "SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg"
+text = "Contact: SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg // info@securitymadein.lu"
 [params.footer.social_list]
 enable = true
 [params.hero]
-buttontext = "Read More"
-description = "Call to action"
-title = "Position paper on trustworthy instant messaging"
+buttontext = "Read More & Support The Call"
+description = ""
+title = "Call for trustworthy instant messaging"
 type = "hero"
 [[params.block]]
 buttontext = "next"
 description = "Raising awareness about the usage of our personal data by using instant messaging apps and calling for a communication solution respecting GDPR and high security standards that enforce and protect European values and rights.\n\nEarly January, the very successful messaging application WhatsApp announced a change in its terms of usage, that allow, among the others, a further usage of personal data by its parent company, Facebook. These changes leave the WhatsApp users only the choice between allowing Facebook to reuse personal data or stop using the service and lose access to an admittedly convenient communication platform.\n\nWhile the outcry triggered by Facebook's move has been significant, and people are flocking to alternative providers, the underlying issues with the current landscape of instant messaging needs to be highlighted - as well as a strategy for a change explored.\n\nIt is undeniable that instant messaging is a critical tool for quick and efficient communications, ranging from a purely personal text up to highly sensitive professional exchanges. While different application providers and alternatives to WhatsApp do exist, all the well-known big players are running monolithic services and thus users are subject to the persistence of a single company and the evolution of its own T&C. These T&C are in fact, most of the time imposed on users as an opt out and communicate through non-transparent and non-user- friendly means.\n\nThis reality is highly unsatisfactory, considering also the fact that, although important national or EU-wide legal instruments (e.g. the GDPR) were put into place in the last years, personal data of EU residents might be transferred to third countries and leave the scope of a data protection regime.\n\nAfter the invalidation of the Privacy Shield by the Court of Justice and the multiple privacy- related issues that Facebook faced in the last years - that it was not able to address convincingly - it has become essential for all European countries to rely on and provide to its enterprises and citizens access to messaging solutions that respect everyone’s right to data privacy, in line with the highest moral and legal principles of every European democratic society."
 id = "context"
-picture = "pic01.jpg"
+picture = "/images/rodion-kutsaev-0vgg7cqtwco-unsplash.jpg"
 title = "Calling for a communication solution respecting GDPR and high security standards"
 type = "text"
 [[params.block]]
 buttontext = ""
 description = "In order to move towards a future solution that does cater for the essential needs that a trustworthy communication platform provides, we encourage and support the deployment of an instant messaging platform delivering the following guarantees:\n\n* to offer the highest level of security and trust,\n* not to rely on a single entity and to operate a decentralised and federated architecture,\n* to be based on open standards,\n* to be able to run in EU based datacentres and under EU legal regimes,\n* to be able to secure national communications within Luxembourg based datacentres and under Luxembourg legal framework.\n\nA standard defining a secure, decentralised and federated communication protocol does exist and has been put into production by several European countries. Supported by multiple open- source as well as vendor driven deployments, this standard implements all aforementioned requirements, rights and values.\n\nFrance, Germany and the UK, are already using applications based on the open and interoperable matrix standard. Building on these examples we call on every company, each individual, and all public entities, to join the effort to save and protect the right to privacy and other fundamental rights of individuals, put at risk by the widespread use of all these communication apps. All citizens shall be able to exercise the right to control their own data."
 id = "solution"
-picture = ""
+picture = "/images/rodion-kutsaev-0vgg7cqtwco-unsplash.jpg"
 title = "Luxembourg and the next steps..."
 type = "text"
 [[params.block]]
 buttontext = "support"
 description = "* SECURITYMADEIN.LU\n* LU-CIX Management\n* Fondation Restena\n* **_\\[YOU\\]_**"
 id = "supporters"
-picture = "pic03.jpg"
+picture = "/images/rodion-kutsaev-0vgg7cqtwco-unsplash.jpg"
 title = "Signatories"
 type = "text"
 [[params.block]]
 buttontext = "support"
 description = ""
 id = "contact"
-picture = "pic05.jpg"
+picture = "/images/rodion-kutsaev-0vgg7cqtwco-unsplash.jpg"
 title = "Join the movement"
 type = "contact"
 [params.block.form]
-formspree = "xnqokleb"
 buttontext = "Get in touch"
 email = "Your Email"
+formspree = "xnqokleb"
 message = "Your Message"
 name = "Name"
