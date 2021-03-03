@@ -1900,7 +1900,8 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+/*		text-align: center; */
+		text-align: justify;
 	}
 
 	header p {
@@ -3073,8 +3074,15 @@
 	}
 
 /* custom */
-#supporters ul {
-		list-style: none;
-		margin: 0;
-		padding: 0;
+#supporters {
+    text-align: center;
 }
+#supporters ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#contact {
+    text-align: center;
+}
+
