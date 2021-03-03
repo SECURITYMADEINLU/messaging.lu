@@ -16,7 +16,7 @@ text = "SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg"
 [params.footer.social_list]
 enable = false
 [params.hero]
-buttontext = "Reade More"
+buttontext = "Read More"
 description = "Position paper"
 title = "Call for a national trustworthy instant messaging solution"
 type = "hero"
@@ -49,6 +49,7 @@ picture = "pic05.jpg"
 title = "Join the movement"
 type = "contact"
 [params.block.form]
+formspree = "xnqokleb"
 buttontext = "Get in touch"
 email = "Your Email"
 message = "Your Message"
