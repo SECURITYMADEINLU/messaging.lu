@@ -49,7 +49,7 @@ picture = "/images/bg.jpg"
 title = "Join the movement"
 type = "contact"
 [params.block.form]
-buttontext = "Get in touch"
+buttontext = "Support the call"
 email = "Your Email"
 formspree = "xnqokleb"
 message = "Your Message"
