@@ -61,6 +61,7 @@ fields:
     - type: text
       name: id
       label: id
+      hidden: true
     - type: text
       name: type
       label: type
