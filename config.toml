@@ -6,7 +6,7 @@ title = "Position Paper on Trustworthy Messaging"
 [params]
 backgroundpersection = true
 description = "Position Paper on Trustworthy Messaging"
-email = "contact@trustworthy.messaging.lu"
+email = "trustworthy@messaging.lu"
 name = "Position Paper"
 [params.footer]
 enable = false
