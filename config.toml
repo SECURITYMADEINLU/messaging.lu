@@ -36,7 +36,7 @@ title = "Luxembourg and the next steps..."
 type = "text"
 [[params.block]]
 buttontext = "support"
-description = "* SECURITYMADEIN.LU\n* LU-CIX Management\n* Fondation Restena\n* BCE\n* Cegecom\n* CEL\n* Chambre des métiers\n* clc\n* CLUSIL\n* Conostix\n* eBRC\n* gms\n* GovCERT\n* LuxConnect\n* LuxNetwork\n* Omnis Cloud\n* POST Group\n* Post Telecom\n* PWC\n* root\n* SIGI\n* **_\\[YOU\\]_**"
+description = "* SECURITYMADEIN.LU\n* LU-CIX Management\n* Fondation Restena\n* BCE\n* Cegecom\n* CEL\n* Chambre des métiers\n* clc\n* CLUSIL\n* Conostix\n* eBRC\n* gms\n* GovCERT\n* LuxConnect\n* LuxNetwork\n* Omnis Cloud\n* Post Group\n* Post Telecom\n* PWC\n* root\n* SIGI\n* **_\\[YOU\\]_**"
 id = "supporters"
 picture = "/images/bg.jpg"
 title = "Signatories"
