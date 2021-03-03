@@ -12,7 +12,7 @@ name = "Position Paper"
 enable = false
 social = []
 [[params.footer.copyright.notice]]
-text = "contact@trustworthy.messaging.lu"
+text = "SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg"
 [params.footer.social_list]
 enable = false
 [params.hero]
