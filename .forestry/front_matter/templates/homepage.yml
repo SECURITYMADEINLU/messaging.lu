@@ -110,7 +110,7 @@ fields:
         label: link
     - type: field_group
       name: copyright
-      label: copyright
+      label: contact & copyright
       fields:
       - type: field_group_list
         name: notice
@@ -119,5 +119,14 @@ fields:
         - type: text
           name: text
           label: text
+        - name: text2
+          type: textarea
+          default: ''
+          config:
+            required: false
+            wysiwyg: true
+            schema:
+              format: markdown
+          label: contact
 pages:
 - config.toml
