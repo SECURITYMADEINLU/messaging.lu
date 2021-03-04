@@ -5,7 +5,7 @@ theme = "hugo-highlights"
 title = "Position Paper on Trustworthy Messaging"
 [params]
 backgroundpersection = true
-description = "Position Paper on Trustworthy Messaging"
+description = "Call for Trustworthy Messaging"
 email = "trustworthy@messaging.lu"
 name = "Position Paper"
 [params.footer]
