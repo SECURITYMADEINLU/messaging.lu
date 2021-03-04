@@ -123,7 +123,7 @@ fields:
             required: false
             wysiwyg: true
             schema:
-              format: html
+              format: html-blocks
           label: contact
 pages:
 - config.toml
