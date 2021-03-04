@@ -116,17 +116,14 @@ fields:
         name: notice
         label: notice
         fields:
-        - type: text
-          name: text
-          label: text
-        - name: text2
+        - name: text
           type: textarea
           default: ''
           config:
             required: false
             wysiwyg: true
             schema:
-              format: markdown
+              format: html
           label: contact
 pages:
 - config.toml
