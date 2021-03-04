@@ -1,20 +1,21 @@
-baseurl = "http://trustworthy.messaging.lu/"
+baseurl = "/"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "hugo-highlights"
 title = "Position Paper on Trustworthy Messaging"
 [params]
 backgroundpersection = true
-description = "Position Paper on Trustworthy Messaging"
+description = "Call for Trustworthy Messaging"
 email = "trustworthy@messaging.lu"
 name = "Position Paper"
 [params.footer]
 enable = true
 social = []
 [[params.footer.copyright.notice]]
-text = "Contact: SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg // info@securitymadein.lu"
+text = "Contact: <a href=\"mailto:trustworthy@messaging.lu\">trustworthy@messaging.lu</a> <span class=\"muted\">co/ SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg</span>"
+text2 = "Contact: <a href=\"mailto:trustworthy@messaging.lu\">trustworthy@messaging.lu</a> <span class=\"muted\">co/ SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg</span>"
 [params.footer.social_list]
-enable = true
+enable = false
 [params.hero]
 buttontext = "Read More & Support The Call"
 description = ""
@@ -36,7 +37,7 @@ title = "Luxembourg and the next steps..."
 type = "text"
 [[params.block]]
 buttontext = "support"
-description = "* SECURITYMADEIN.LU\n* LU-CIX Management\n* Fondation Restena\n* BCE\n* Cegecom\n* CEL\n* Chambre des métiers\n* clc\n* CLUSIL\n* Conostix\n* eBRC\n* gms\n* GovCERT\n* LuxConnect\n* LuxNetwork\n* Omnis Cloud\n* POST Group\n* Post Telecom\n* PWC\n* root\n* SIGI\n* **_\\[YOU\\]_**"
+description = "* SECURITYMADEIN.LU\n* LU-CIX Management\n* Fondation Restena\n* BCE\n* Cegecom\n* CEL\n* Chambre des métiers\n* clc\n* CLUSIL\n* Conostix\n* eBRC\n* gms\n* GovCERT\n* LuxConnect\n* LuxNetwork\n* Omnis Cloud\n* Post Group\n* Post Telecom\n* PWC\n* root\n* SIGI\n* **_\\[YOU\\]_**"
 id = "supporters"
 picture = "/images/bg.jpg"
 title = "Signatories"
