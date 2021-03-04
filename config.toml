@@ -12,10 +12,10 @@ name = "Position Paper"
 enable = true
 social = []
 [[params.footer.copyright.notice]]
-text = "Contact: <a href=\"mailto:trustworthy@messaging.lu\">trustworthy@messaging.lu</a> <span class=\"muted\">co/ SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg</span>"
-text2 = "Contact: <a href=\"mailto:trustworthy@messaging.lu\">trustworthy@messaging.lu</a> <span class=\"muted\">co/ SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg</span>"
+text = "Contact: [trustworthy@messaging.lu](mailto:trustworthy@messaging.lu)"
+#text = "Contact: [trustworthy@messaging.lu](mailto:trustworthy@messaging.lu) (co/ SECURITYMADEIN.LU 16 bvd d'Avranches L-1160 Luxembourg)"
 [params.footer.social_list]
-enable = false
+enable = true
 [params.hero]
 buttontext = "Read More & Support The Call"
 description = ""
