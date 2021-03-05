@@ -46,7 +46,7 @@ buttontext = "support"
 description = ""
 id = "contact"
 picture = "/images/bg.jpg"
-title = "Join the movement"
+title = "Private compagnies, public organisations or individuals, join the movement"
 type = "contact"
 [params.block.form]
 buttontext = "Support the call"
