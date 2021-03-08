@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
-@import url("//fonts.googleapis.com/css?family=Raleway:400,400italic,700,800");
+/*@import url("//fonts.googleapis.com/css?family=Raleway:400,400italic,700,800"); */
+@import url("fonts.css"); */
 
 /*
 	Highlights by HTML5 UP
@@ -63,6 +64,7 @@
 		margin-right: auto;
 	}
 
+/*
 	.container.\31 25\25 {
 		width: 100%;
 		max-width: 43.75em;
@@ -84,6 +86,29 @@
 	.container {
 		width: 35em;
 	}
+*/
+	.container.\31 25\25 {
+		width: 100%;
+		max-width: 100%;
+		min-width: 80%;
+	}
+
+	.container.\37 5\25 {
+		width: 60%;
+	}
+
+	.container.\35 0\25 {
+		width: 40%;
+	}
+
+	.container.\32 5\25 {
+		width: 20%;
+	}
+
+	.container {
+		width: 80%;
+	}
+
 
 	@media screen and (max-width: 1680px) {
 
