@@ -36,7 +36,7 @@ title = "Luxembourg and the next steps..."
 type = "text"
 [[params.block]]
 buttontext = "support"
-description = "* SECURITYMADEIN.LU\n* Fondation Restena\n* LU-CIX Management\n* GovCERT\n* Conostix\n* Omnis Cloud\n* Luxembourg Institute of Health\n* POST Luxembourg\n* cegecom\n* EBRC\n* LuxNetwork\n* POST Telecom\n* Broadcasting Center Europe\n* Chambre des Métiers\n* CEL S.A. - Société agréée PSF\n* LuxConnect\n* root\n* PwC Luxembourg\n* Syndicat Intercommunal de Gestion Informatique\n* Global Media Systems\n* Confédération luxembourgeoise du commerce\n* Syndicat des Villes et Communes Luxembourgeoises\n* Association pour la Protection des Données au Luxembourg\n* Encryption Europe\n* **_\\[YOU\\]_**"
+description = "* SECURITYMADEIN.LU\n* Fondation Restena\n* LU-CIX Management\n* GovCERT\n* Conostix\n* Omnis Cloud\n* Luxembourg Institute of Health\n* POST Luxembourg\n* cegecom\n* EBRC\n* LuxNetwork\n* POST Telecom\n* Broadcasting Center Europe\n* Chambre des Métiers\n* CEL S.A. - Société agréée PSF\n* LuxConnect\n* root\n* PwC Luxembourg\n* Syndicat Intercommunal de Gestion Informatique\n* Global Media Systems\n* Confédération luxembourgeoise du commerce\n* Syndicat des Villes et Communes Luxembourgeoises\n* Association pour la Protection des Données au Luxembourg\n* Encryption Europe\n* Université du Luxembourg\n* **_\\[YOU\\]_**"
 id = "supporters"
 picture = "/images/bg.jpg"
 title = "Signatories"
