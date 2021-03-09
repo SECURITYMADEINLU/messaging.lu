@@ -43,7 +43,7 @@ title = "Signatories"
 type = "text"
 [[params.block]]
 buttontext = "support"
-description = "Find here below the press release from March 9th 2021, in three different languages:\n\n* [09032021_press-release_en.pdf](/images/09032021_press-release_en.pdf \"Press release (EN)\")\n* [09032021_communique-de-presse_fr.pdf](/images/09032021_communique-de-presse_fr.pdf \"Communiqué de presse (FR)\")\n* [09032021_pressecommunique_lu.pdf](/images/09032021_pressecommunique_lu.pdf \"Pressecommuniqué (LB)\")"
+description = "Find here below the press release from March 9th 2021, in three different languages:\n\n* [Press release (EN)](/images/09032021_press-release_en.pdf)\n* [Communiqué de presse (FR)](/images/09032021_communique-de-presse_fr.pdf)\n* [Pressecommuniqué (LB)](/images/09032021_pressecommunique_lb.pdf)"
 id = "contact"
 picture = ""
 title = "Private companies, public organisations or individuals, join the movement"
