@@ -2,17 +2,17 @@
 <section id="{{.block.id}}" class="main special">
     <div class="container">
         <div class="content">
-            <header class="major">
-                <h2>{{ with .block.title}}{{ . | markdownify }}{{ end }}</h2>
-            </header>
-          <div class="row">
-            <div class="col-6">
-            <h3>{{ with .block.title_left}}{{ . | markdownify }}{{ end }}</h2>
-            <p>{{ with .block.description_left}}{{ . | markdownify }}{{ end }}</p>
+          <header class="major">
+              <h2>{{ with .block.title}}{{ . | markdownify }}{{ end }}</h2>
+          </header>
+          <div class="row uniform">
+            <div class="6u">
+              <h3>{{ with .block.title_left}}{{ . | markdownify }}{{ end }}</h2>
+              <p>{{ with .block.description_left}}{{ . | markdownify }}{{ end }}</p>
             </div>
-            <div class="col-6">
-            <h3>{{ with .block.title_right}}{{ . | markdownify }}{{ end }}</h2>
-            <p>{{ with .block.description_right}}{{ . | markdownify }}{{ end }}</p>
+            <div class="6u">
+              <h3>{{ with .block.title_right}}{{ . | markdownify }}{{ end }}</h2>
+              <p>{{ with .block.description_right}}{{ . | markdownify }}{{ end }}</p>
             </div>
           </div>
         </div>
