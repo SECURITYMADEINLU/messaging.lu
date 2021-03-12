@@ -81,6 +81,34 @@ fields:
     - type: file
       name: picture
       label: picture
+    - name: title_left
+      type: text
+      config:
+        required: false
+      label: title_left
+    - name: description_left
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: description_left
+    - name: title_right
+      type: text
+      config:
+        required: false
+      label: title_right
+    - name: description_right
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: description_right
   - type: field_group
     name: footer
     label: footer
